@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Giovanni 👋
 
-<!--
-**vanninndev-glitch/vanninndev-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Sistemas Computacionales desde Zitácuaro, Michoacán, México. Me gusta desarrollar software, practicar y aprender cosas nuevas todos los días. Me autocapacito constantemente y convierto lo que aprendo en proyectos reales.
 
-Here are some ideas to get you started:
+## 🌱 Siempre aprendiendo
+Creo que la mejor forma de aprender es construyendo. Por eso cada proyecto es un reto para probar una tecnología nueva, resolver problemas complejos y mejorar mi forma de trabajar. Actualmente sigo explorando desarrollo web y móvil, DevOps, nube, ciberseguridad e inteligencia artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Lo que he construido
+Estos proyectos los desarrollé con **vibecoding**: trabajo en conjunto con herramientas de IA, donde yo defino la arquitectura y los requisitos, reviso el código, pruebo, depuro y llevo cada proyecto hasta que funciona de verdad.
+
+- **FacturaMax:** plataforma de facturación electrónica CFDI 4.0 conforme al SAT.
+- **MediCore:** sistema de gestión hospitalaria multi-tenant (NOM-024, HL7/FHIR).
+- **UnivEx:** sistema de gestión universitaria multi-tenant.
+- **DesignStudio y ClipForge:** editores de diseño y de video en Ionic + Angular.
+- **¿En qué se me fue el dinero?:** app Android de finanzas personales con IA en el dispositivo.
+
+En mi [portafolio](https://portfolio-vxnni-dev.netlify.app/) encontrarás más proyectos: algunos que construí siguiendo cursos y otros propios que hice para practicar y experimentar con nuevas tecnologías.
+
+## 🛠️ Tecnologías
+**Backend:** Node.js, Express, PostgreSQL, Redis, Socket.io
+**Frontend:** Angular, Ionic, JavaScript, Three.js, Chart.js
+**Móvil:** Kotlin, Jetpack Compose, Capacitor
+**Infraestructura:** Docker, Nginx
+**Seguridad:** JWT, control de acceso por roles, cifrado AES-256
+
+## 📫 Contacto
+🌐 [Portafolio](https://portfolio-vxnni-dev.netlify.app/) · 📧 vanninndev@gmail.com
