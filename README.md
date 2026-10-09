@@ -14,7 +14,7 @@ Estos proyectos los desarrollé con **vibecoding**: trabajo en conjunto con herr
 - **DesignStudio y ClipForge:** editores de diseño y de video en Ionic + Angular.
 - **¿En qué se me fue el dinero?:** app Android de finanzas personales con IA en el dispositivo.
 
-En mi [portafolio](https://portfolio-vxnni-dev.netlify.app/) encontrarás más proyectos: algunos que construí siguiendo cursos y otros propios que hice para practicar y experimentar con nuevas tecnologías.
+En mi [portafolio](https://portfolio-vxnninndev-glitch.netlify.app/) encontrarás más proyectos: algunos que construí siguiendo cursos y otros propios que hice para practicar y experimentar con nuevas tecnologías.
 
 ## 🛠️ Tecnologías
 **Backend:** Node.js, Express, PostgreSQL, Redis, Socket.io
@@ -24,4 +24,4 @@ En mi [portafolio](https://portfolio-vxnni-dev.netlify.app/) encontrarás más p
 **Seguridad:** JWT, control de acceso por roles, cifrado AES-256
 
 ## 📫 Contacto
-🌐 [Portafolio](https://portfolio-vxnni-dev.netlify.app/) · 📧 vanninndev@gmail.com
+🌐 [Portafolio](https://portfolio-vxnninndev-glitch.netlify.app/) · 📧 vanninndev@gmail.com
